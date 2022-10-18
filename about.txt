@@ -1,14 +1,14 @@
-ABOUT ME --A RANT
+ABOUT ME -- A RANT
 
-My name is Oke Abosede a.k.a Adenike, I am a 400 level human kinetic student of University of Ilorin. Currently, I am learning to be a backend developer, I decided to take advantage of the unintended but kinda appreciated break I got, courtesy of the federal government, ASUU and my school that recently joined ASUU for no good reason (my opinion).
-I have always been someone who always likes to tackle the impossible and demystify it, so when I saw those weird looking words, I knew I was going to learn coding. I might  not have gone far but I will definitely get there (I will come back soon to edit these txt file accordingly). 
-I started my developer journey with I4G x Zuri Training, I applied for the full stack training because I wanted to get a feel of what both frontend and backend entails, it lasted all of 4 months and althought the training was a little too fast-paced for a total novice, I made it and got into the project phase where you need to have atleast 70% score to get in, and together with my teammates, made a price compare website named priceBeta (it basically helps a user compare diffferent prices of the same products across diffferent websites that sells them) and came in 34th, or was it 38th out of 129 teams, for a bunch of first-timers, I don't think we did bad at all.
+My name is Oke Abosede a.k.a Adenike, I am a final year Human Kinetic student of University of Ilorin. Currently, I am learning to be a backend developer, I decided to take advantage of the unintended but kinda appreciated break I got, courtesy of the Federal Government, ASUU and my school that recently joined ASUU for no good reason (my opinion).
+I have always been someone who always likes to tackle the impossible and demystify it, so when I saw those weird looking 'words', I knew I was going to learn coding. I might not have gone far but I will definitely get there (I will come back soon to edit these txt file accordingly, so watch this space). 
+I started my developer journey with I4G x Zuri Training, I applied for the full stack training because I wanted to get a feel of what both frontend and backend entails, it lasted all of 4 months and although the training was a little too fast-paced for a total novice, I made it and got into the project phase where you need to have atleast 70% score to get in, and together with my teammates, made a price compare website named priceBeta (it basically help users compare different prices of the same product across different websites that sells them) and came in 34th, or was it 38th out of 129 teams, for a bunch of first-timers, I don't think we did bad at all.
 Hence, I am Adenike, a beginner backend developer.
 
 MY SKILLS
--Excel Skills: Recording data, Using excel formula functions and shortcuts, filtering and sorting data.
-Editing and Proofreading Skills: Analysing the style of writing and clarity of the texts, grammar checks, puctuations and formatting.
-Coding Skills: Git version control, Integrated Development Environments, HTML, CSS, time management, accountability, adaptability, curiosity, problem solving, teamwork and conflict resolution, and communication.
+-Excel Skills: Recording data, using excel formula functions and shortcuts, filtering and sorting data.
+-Editing and Proofreading Skills: Analysing the style of writing and clarity of the texts, grammar checks, puctuations and formatting.
+-Coding Skills: Git version control, Integrated Development Environments, HTML, CSS, time management, accountability, adaptability, curiosity, problem solving, teamwork and communication.
 
 SKILLS TO BE LEARNT
 I would be coming to this .txt file to tick these skills as I learn them.
@@ -22,16 +22,16 @@ I would be coming to this .txt file to tick these skills as I learn them.
 -DATA STRUCTURES AND ALGORITHMS
 
 MY HOBBIES
--I love reading, had to delete my wattpad reading app tho, now I read Christian books and they are verrrry edifying
+-I love reading, had to delete my wattpad reading app tho, so now I read Christian books and they are verrrry edifying
 -I get lazy about this sometimes but I really love working out
 -Being solitude, it's absolute bliss
--Standing out, being unique andd yes, it's my hobby.
+-Standing out, being unique and yes, it's my hobby.
 
 THINGS I WOULD LOVE TO DO - A BUCKET LIST?
 -Go on vacation to South Korea
 -Parachuting
 -Bungee jumping
 -Make enough money
--Last but definitely not the least, be a bad-ass (excuse the language) backend developer, this doesm't feel like a bucket list but it's something I'm definitely going to be.
+-Last but definitely not the least, be a bad-ass (excuse the language) backend developer, this doesn't feel like a bucket list but it's something I'm definitely going to be.
 
 
