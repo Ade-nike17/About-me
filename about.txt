@@ -10,6 +10,17 @@ MY SKILLS
 Editing and Proofreading Skills: Analysing the style of writing and clarity of the texts, grammar checks, puctuations and formatting.
 Coding Skills: Git version control, Integrated Development Environments, HTML, CSS, time management, accountability, adaptability, curiosity, problem solving, teamwork and conflict resolution, and communication.
 
+SKILLS TO BE LEARNT
+I would be coming to this .txt file to tick these skills as I learn them.
+-HTML
+-CSS
+-JAVASCRIPT
+-API
+-DJANGO
+-PYTHON
+-DATABASE AND SQL
+-DATA STRUCTURES AND ALGORITHMS
+
 MY HOBBIES
 -I love reading, had to delete my wattpad reading app tho, now I read Christian books and they are verrrry edifying
 -I get lazy about this sometimes but I really love working out
